@@ -1,0 +1,7 @@
+We/PRP
+Are/VBP
+studying/VBG
+NLP/NNP
+at/IN
+TDTU/NNP
+./.
