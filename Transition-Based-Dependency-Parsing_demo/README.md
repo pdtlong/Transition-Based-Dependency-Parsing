@@ -2,7 +2,7 @@
 ## Requirements:
 - Python 3.7
 - argparse
-## How to run (run on cmd):
+## How to run (run on cmd | Anaconda):
 ```python
 python main.py --corpus=wsj-clean.txt --pos=piper.txt
 ```
